@@ -1,6 +1,6 @@
 @echo off
 setlocal enabledelayedexpansion
-chcp 6100
+chcp 850
 title batel pets
 
 ::generation de la couleur
@@ -100,3 +100,4 @@ echo attention les phrase avec des espace doivent etre entre guimet quand t elle
 ::fin
 
 call main
+
